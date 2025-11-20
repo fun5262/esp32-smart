@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  padding: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 14px;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+input[type="submit"] {
+  padding: 14px 28px;
+  font-size: 22px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+#status {
+  margin-top: 20px;
+  font-size: 20px;
+  color: green;
+}
